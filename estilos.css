@@ -1,0 +1,13 @@
+body { /* Se aplica directamente al elemento <body> */
+color: gray;
+background-color: rgba(242, 177, 242, 0.267);
+background:url(https://www.oasysparquetematico.com/wp-content/uploads/2019/03/shutterstock_1155910990-1280x720.jpg)
+}
+h2 { /* Se aplica directamente a todos los elementos de tipo <h2> */
+color: rgb(255, 72, 5);
+}
+/* Se aplica sólo en el elemento donde se use con el atributo `class` */
+.clase-css-tag 
+{color: green;
+}
+
